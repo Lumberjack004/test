@@ -1,2 +1,3 @@
-print("333")
-print("333")
+print("222")
+print("222")
+print("222")
